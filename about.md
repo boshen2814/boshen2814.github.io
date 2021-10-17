@@ -15,7 +15,7 @@ Bo received a BS in [mathematics](https://math.iastate.edu) in 2017, from Iowa S
 ---
 
 <div class="container">
-<h4><a name="Contact"></a>contact</h4>
+<h4><a name="contact"></a>Contact</h4>
 
     <div class="row-fluid">
         <div class="span5">
