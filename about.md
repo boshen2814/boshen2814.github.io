@@ -8,12 +8,7 @@ Boqian (Bo) Shen is 5th year Ph.D. student in the
 [Department of Computational and Applied mathematics](https://caamweb.rice.edu/)
 at Rice University.
 
-Bo received a BS in [mathematics](https://uwm.edu/math)
-in 1991, from the
-University of Wisconsin&ndash;Milwaukee, and a
-PhD in [statistics](https://statistics.berkeley.edu) in 1997, from the
-University of California, Berkeley; his PhD advisor was
-[Terry Speed](https://www.wehi.edu.au/people/terry-speed).
+Bo received a BS in [mathematics](https://math.iastate.edu) in 2017, from Iowa State University
 
 
 
