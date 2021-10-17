@@ -1,1 +1,17 @@
 theme: jekyll-theme-minimal
+
+permalink: /:categories/:year/:month/:day/:title
+highlighter: rouge
+title : Boqian Shen
+author :
+  name : Boqian Shen
+  email : boshen@rice.edu
+  github : boshen2814
+
+production_url : https://boshen2814.github.io
+
+markdown: kramdown
+
+
+JB :
+  version : 0.3.0
