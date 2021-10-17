@@ -1,28 +1,20 @@
 ---
 layout: page
 title: about
-description: Karl Broman is Professor in Biostatistics and Medical Informatics at University of Wisconsin - Madison; research in statistical genetics
+description: Boqian Shen is 
 ---
 
-Karl Broman is Professor in the
-[Department of Biostatistics &amp; Medical Informatics](https://www.biostat.wisc.edu)
-at the University of Wisconsin&ndash;Madison;
-research in statistical genetics; developer of
-[R/qtl](https://rqtl.org) and [R/qtl2](https://kbroman.org/qtl2) (for
-[R](https://www.r-project.org)).
+Boqian (Bo) Shen is 5th year Ph.D. student in the
+[Department of Computational and Applied mathematics](https://caamweb.rice.edu/)
+at Rice University.
 
-Karl received a BS in [mathematics](https://uwm.edu/math)
+Bo received a BS in [mathematics](https://uwm.edu/math)
 in 1991, from the
 University of Wisconsin&ndash;Milwaukee, and a
 PhD in [statistics](https://statistics.berkeley.edu) in 1997, from the
 University of California, Berkeley; his PhD advisor was
 [Terry Speed](https://www.wehi.edu.au/people/terry-speed).
-He was a postdoctoral fellow with James Weber at the
-[Marshfield Clinic Research Foundation](https://www.marshfieldresearch.org),
-1997&ndash;1999. He
-was a faculty member in the [Department of Biostatistics](https://www.jhsph.edu/departments/biostatistics/) at Johns
-Hopkins University, 1999&ndash;2007. In 2007, he moved to the
-[University of Wisconsin&ndash;Madison](https://www.wisc.edu).
+
 
 Karl is an applied statistician focusing on problems in genetics and
 genomics &ndash; particularly the analysis of meiotic recombination and the
@@ -33,14 +25,14 @@ quantitative trait. He is enthusiastic about the value
 of interactive data visualizations for exploring high-dimensional genetic data;
 see his [R/qtlcharts package](https://kbroman.org/qtlcharts/).
 
-[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/broman_cv.pdf)<br/>
-[orcid](https://orcid.org): [0000-0002-4914-6671](https://orcid.org/0000-0002-4914-6671)<br/>
-[google scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=42tCp5UAAAAJ&view_op=list_works)<br/>
-[pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=broman+kw)<br/>
-<!-- [impactstory](https://impactstory.org/u/0000-0002-4914-6671)<br/> -->
-[github](https://github.com/kbroman)<br/>
-[blog](https://kbroman.org/blog/) <br/>
-he/him
+#[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/broman_cv.pdf)<br/>
+#[orcid](https://orcid.org): [0000-0002-4914-6671](https://orcid.org/0000-0002-4914-6671)<br/>
+#[google scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=42tCp5UAAAAJ&view_op=list_works)<br/>
+#[pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=broman+kw)<br/>
+#<!-- [impactstory](https://impactstory.org/u/0000-0002-4914-6671)<br/> -->
+#[github](https://github.com/kbroman)<br/>
+#[blog](https://kbroman.org/blog/) <br/>
+#he/him
 
 ---
 
