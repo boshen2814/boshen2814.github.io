@@ -33,8 +33,8 @@ Bo received a BS in [mathematics](https://math.iastate.edu) in 2017, from Iowa S
         </div>
 
         <div class="span2">
-        <a href="../pics/bo_2021_small.png">
-            <img src="../pics/bo_2021_small.png"
+        <a href="../pics/bo_2021_small.jpg">
+            <img src="../pics/bo_2021_small.jpg"
                   title="Boqian Shen" alt="Boqian Shen"/></a>
         </div>
     </div>
