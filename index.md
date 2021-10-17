@@ -5,14 +5,6 @@ description: Bo
 keywords: 
 ---
 
-<div class="navbar">
-  <div class="navbar-inner">
-      <ul class="nav">
-          <li><a href="https://github.com/boshen2814">github</a></li>
-      </ul>
-  </div>
-</div>
-
 <table class="wide">
 <tr>
   <td class="left">
@@ -41,10 +33,10 @@ keywords:
 </tr>
 </table>
 
-<div class="navbar">
+<!--- <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="morefigs.html">more figures</a></li>
       </ul>
   </div>
-</div>
+</div> --->
