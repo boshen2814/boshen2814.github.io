@@ -16,51 +16,31 @@ University of California, Berkeley; his PhD advisor was
 [Terry Speed](https://www.wehi.edu.au/people/terry-speed).
 
 
-Karl is an applied statistician focusing on problems in genetics and
-genomics &ndash; particularly the analysis of meiotic recombination and the
-genetic dissection of complex traits in experimental organisms. The
-latter is often called &ldquo;QTL mapping.&rdquo; A QTL is a
-_quantitative trait locus_ &ndash; a genetic locus that influences a
-quantitative trait. He is enthusiastic about the value
-of interactive data visualizations for exploring high-dimensional genetic data;
-see his [R/qtlcharts package](https://kbroman.org/qtlcharts/).
-
-#[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/broman_cv.pdf)<br/>
-#[orcid](https://orcid.org): [0000-0002-4914-6671](https://orcid.org/0000-0002-4914-6671)<br/>
-#[google scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=42tCp5UAAAAJ&view_op=list_works)<br/>
-#[pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=broman+kw)<br/>
-#<!-- [impactstory](https://impactstory.org/u/0000-0002-4914-6671)<br/> -->
-#[github](https://github.com/kbroman)<br/>
-#[blog](https://kbroman.org/blog/) <br/>
-#he/him
 
 ---
 
 <div class="container">
-<h4><a name="contact"></a>contact</h4>
+<h4><a name="Contact"></a>contact</h4>
 
     <div class="row-fluid">
         <div class="span5">
-            Karl Broman<br/>
-            <a href="https://www.biostat.wisc.edu">Department of Biostatistics &amp; Medical Informatics</a><br/>
-            <a href="https://www.wisc.edu">University of Wisconsin&ndash;Madison</a><br/>
-            <a href="https://map.wisc.edu/s/2tie3nen">2126 Genetics/Biotechnology Center</a><br/>
-            425 Henry Mall<br/>
-            Madison, Wisconsin 53706<br/>
-            USA<br/><br/>
+            Boqian Shen<br/>
+	    DUNCAN HALL 2106<br/>
+	    6100 MAIN STREET<br/>
+	    HOUSTON, TX 77005-1892<br/>
+	    USA<br/><br/>
 
             <div id="hide_email">
-            Email: <code>bro</code><b>I</b><code>man</code><b>don't</b><code>@</code><b>want</b><code></code><b>spam!
-            </b><code></code><b>So</b><code></code><b>please</b><code>wi</code><b>leave
-            </b><code>sc</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code><br/>
-            Phone: 608-262-4633
+            Email: <code>bo</code><b>I</b><code>shen</code><b>don't</b><code>@</code><b>want</b><code></code><b>spam!
+            </b><code></code><b>So</b><code></code><b>please</b><code>ri</code><b>leave
+            </b><code>ce</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code><br/>
             </div>
         </div>
 
         <div class="span2">
-        <a href="../pics/karl_2014-03-30.jpg">
-            <img src="../pics/karl_2014-03-30_small.jpg"
-                  title="Karl Broman" alt="Karl Broman"/></a>
+        <a href="../pics/bo_2021_small.png">
+            <img src="../pics/bo_2021_small.png"
+                  title="Boqian Shen" alt="Boqian Shen"/></a>
         </div>
     </div>
 </div>
