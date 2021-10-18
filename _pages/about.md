@@ -13,8 +13,8 @@ Boqian Shen is fifth-year graduate student in the [Computational and Applied Mat
 
 
 ## Education
-*  <font size="4"> Ph.D. in Computational and Applied Mathematics (expected May 2022)</font> <br />
-  Dissertation: Numerical Methods for Two-phase Flow in Rigid and Deformable Porous Media<br />
+*  <font size="3"> Ph.D. in Computational and Applied Mathematics (expected May 2022)</font> <br />
+   <font size="3"> Dissertation: Numerical Methods for Two-phase Flow in Rigid and Deformable Porous Media</font> <br />
   Research Advisor: Professor Beatrice Riviere<br />
 
 * Master of Arts in Computational and Applied Mathematics, May 2020<br />
