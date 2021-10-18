@@ -13,7 +13,7 @@ Boqian Shen is fifth-year graduate student in the [Computational and Applied Mat
 
 
 ## Education
-* Ph.D. in Computational and Applied Mathematics (expected May 2022)<br />
+*  <font size="4"> Ph.D. in Computational and Applied Mathematics (expected May 2022)<br />
   Dissertation: Numerical Methods for Two-phase Flow in Rigid and Deformable Porous Media<br />
   Research Advisor: Professor Beatrice Riviere<br />
 
@@ -21,7 +21,7 @@ Boqian Shen is fifth-year graduate student in the [Computational and Applied Mat
 
 * Bachelor of Science in Mathematics with a minor in Computer Science<br />
   Undergraduate Thesis: A Particle-Based Numerical Method for Vlasov-Poisson Plasma Models<br />
-  Research Advisor: Professor James A. Rossmanith<br />
+  Research Advisor: Professor James A. Rossmanith<br /> 4</font> 
 
 
 ## Research Experience
