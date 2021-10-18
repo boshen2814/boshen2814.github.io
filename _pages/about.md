@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Boqian Shen is fifth-year graduate student in the Computational and Applied Mathematics department (CAAM) at Rice University. His advisor is Béatrice Rivière. Boqian reveived a BS in mathematics in 2017 from the Iowa State University. 
+Boqian Shen is fifth-year graduate student in the [Computational and Applied Mathematics department](https://www.caam.rice.edu/) (CAAM) at Rice University. His advisor is Béatrice Rivière. Boqian reveived a BS in mathematics in 2017 from the Iowa State University. 
