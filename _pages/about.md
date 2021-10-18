@@ -13,23 +13,23 @@ Boqian Shen is fifth-year graduate student in the [Computational and Applied Mat
 
 
 ## Education
-* ### Ph.D. in Computational and Applied Mathematics (expected May 2022)
-  ####Dissertation: Numerical Methods for Two-phase Flow in Rigid and Deformable Porous Media
-  Research Advisor: Professor Beatrice Rivière 
+* Ph.D. in Computational and Applied Mathematics (expected May 2022)<br />
+  Dissertation: Numerical Methods for Two-phase Flow in Rigid and Deformable Porous Media<br />
+  Research Advisor: Professor Beatrice Riviere<br />
 
-* Master of Arts in Computational and Applied Mathematics, May 2020
+* Master of Arts in Computational and Applied Mathematics, May 2020<br />
 
-* Bachelor of Science in Mathematics with a minor in Computer Science
-  Undergraduate Thesis: A Particle-Based Numerical Method for Vlasov-Poisson Plasma Models
-  Research Advisor: Professor James A. Rossmanith
+* Bachelor of Science in Mathematics with a minor in Computer Science<br />
+  Undergraduate Thesis: A Particle-Based Numerical Method for Vlasov-Poisson Plasma Models<br />
+  Research Advisor: Professor James A. Rossmanith<br />
 
 
 ## Research Experience
-* Los Alamos National Laboratory, Los Alamos, NM
-  Graduate Research Assistant, T-5 Applied Math & Plasma Physics
+* Los Alamos National Laboratory, Los Alamos, NM<br />
+  Graduate Research Assistant, T-5 Applied Math & Plasma Physics<br />
 
-* ExxonMobil Upstream Research Company, Spring, TX
-  Research Intern, Reservoir Simulation Development Section
+* ExxonMobil Upstream Research Company, Spring, TX<br />
+  Research Intern, Reservoir Simulation Development Section<br />
 
-* Los Alamos National Laboratory, Los Alamos, NM
-  Research Intern, Parallel Computing Summer Program / T-5 Applied Math & Plasma Physics
+* Los Alamos National Laboratory, Los Alamos, NM<br />
+  Research Intern, Parallel Computing Summer Program / T-5 Applied Math & Plasma Physics<br />
